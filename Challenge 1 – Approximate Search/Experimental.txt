@@ -1,0 +1,2 @@
+The program must be able to read a text file and parse the content of the file and store it in-memory.The program should wait for the users input. Once the user enters some text and presses enter the program should return a list of suitable suggestions. 
+active activist activity
